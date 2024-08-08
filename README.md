@@ -2,8 +2,7 @@
 - 👀 I’m interested in webSecurity
 - 🌱 I’m currently on internshp at INSA
 - 📫 How to reach me ...https://t.me/Adonay_M
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 AdonayM/AdonayM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
